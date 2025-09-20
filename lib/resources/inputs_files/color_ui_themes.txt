@@ -1,0 +1,16 @@
+[LightModeColors]
+backgroundPrimary: #f5f3f2
+mainCard: #ffffff
+textPrimary: #000000
+textGrey: #757272
+divider: #bebbbb
+star: #f7e311
+
+
+[DarkModeColors]
+backgroundPrimary: #24282f
+mainCard: #3c3e44
+textPrimary: #FFFFFF
+textGrey: #9e9e9e
+divider: #bdbdbd
+star: #f7e311

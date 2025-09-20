@@ -1,0 +1,23 @@
+{
+  "name": "Name",
+  "userName": "Username",
+  "phone": "Phone",
+  "basicInformation": "Basic information",
+  "email": "Email",
+  "website": "Website",
+  "address": "Address",
+  "street": "Street",
+  "suite": "Suite",
+  "city": "City",
+  "zipcode": "Zipcode",
+  "company": "Company",
+  "nameCompany": "Name",
+  "catchPhrase": "Catch Phrase",
+  "bs": "BS",
+  "nightMode": "Night mode",
+  "favorite": "Favorite",
+  "setting": "Setting",
+  "users": "Users",
+  "usersFavoriteScreenEmpty": "There are no selected users yet",
+  "searchForUsers": "Search for users..."
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Имя",
+  "userName": "Логин",
+  "phone": "Телефон",
+  "basicInformation": "Основная информация",
+  "email": "Почта",
+  "website": "Вебсайт",
+  "address": "Адрес",
+  "street": "Улица",
+  "suite": "Квартира",
+  "city": "Город",
+  "zipcode": "Индекс",
+  "company": "Компания",
+  "nameCompany": "Название",
+  "catchPhrase": "Девиз",
+  "bs": "BS",
+  "nightMode": "Ночной режим",
+  "favorite": "Избранные",
+  "setting": "Настройки",
+  "users": "Пользователи",
+  "usersFavoriteScreenEmpty": "Пока ещё нет избранных пользователей",
+  "searchForUsers": "Поиск пользователей..."
+}
